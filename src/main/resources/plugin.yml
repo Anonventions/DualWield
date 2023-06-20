@@ -1,4 +1,5 @@
 name: DualWield
 version: '${project.version}'
-main: org.dualwield.DualWield
+author: KreatingMania, Axmon, Amon_m [discord], AMON [Aliases]
+main: org.dualwield.DualWieldPlugin
 api-version: 1.18
