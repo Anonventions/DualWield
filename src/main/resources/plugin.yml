@@ -1,0 +1,4 @@
+name: DualWield
+version: '${project.version}'
+main: org.dualwield.DualWield
+api-version: 1.18
